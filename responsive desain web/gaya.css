@@ -1,0 +1,50 @@
+*,
+.html {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: aqua;
+  padding: auto;
+}
+
+.keterangan {
+  color: red;
+}
+
+h2 {
+  color: mediumaquamarine;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: yellow;
+}
+
+main {
+  width: 70%;
+  height: 150px;
+  background-color: green;
+}
+
+aside {
+  width: 30%;
+  height: 150px;
+  margin-top: -150px;
+  margin-left: 15px;
+  float: right;
+  background-color: brown;
+}
+
+.container {
+  max-width: 960px;
+  height: auto;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: grey;
+}/*# sourceMappingURL=gaya.css.map */
